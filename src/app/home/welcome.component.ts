@@ -5,4 +5,10 @@ import { Component } from '@angular/core';
 })
 export class WelcomeComponent {
   public pageTitle = 'Welcome';
+
+
+
+  dummy() {
+    // to be implemented
+  }
 }
